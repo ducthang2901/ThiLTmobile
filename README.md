@@ -1,6 +1,10 @@
 # Hồ Đức Thắng
 ### MSV: 22810310404
-## Ket qua 4 trang lam:
+# Nguyễn Xuân Dương
+### MSV: 22810310396
+# Đồng Viết Minh
+### MSV: 22810310393
+## Ket qua:
 ![Image](https://github.com/user-attachments/assets/68a95c33-1bfd-4de0-8a5a-c777eb971d15)
 ![Image](https://github.com/user-attachments/assets/c0bf1c23-49a7-4906-aa58-1e514b4c5971)
 ![Image](https://github.com/user-attachments/assets/e32bf0ac-2e10-4b37-b9c2-e9d212162c02)
